@@ -51,4 +51,4 @@ window.Cursor = class Cursor {
     document.body.append(this.domElement);
   }
 };
-export Cursor
+export default Cursor
